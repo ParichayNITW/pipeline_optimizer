@@ -2,3 +2,4 @@ Flask>=2.2
 pyomo>=6.3.0
 requests
 lxml
+gunicorn>=20.1.0
